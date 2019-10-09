@@ -1,0 +1,15 @@
+{
+  "name": "na-sponsorship-docs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://genu@github.com/na-sponsorship/docs.git",
+  "author": "Eugen Istoc <eugenistoc@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vuepress": "^1.1.0"
+  }
+}
